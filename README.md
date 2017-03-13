@@ -19,3 +19,9 @@ This is solution to the TechPrimeLab's Assignment
 <img src="https://github.com/Isha3996/Parking_Lot_System/blob/master/Snapshots/Snap9.png" alt="Snap">
 
 <img src="https://github.com/Isha3996/Parking_Lot_System/blob/master/Snapshots/Snap10.png" alt="Snap">
+
+<h1>System Requirements</h1>
+<ol>
+  <li>NetBeans</li>
+  <li>Xampp for mysql database</li>
+</ol>
